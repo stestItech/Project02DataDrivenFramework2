@@ -8,7 +8,7 @@ public class DataProviders {
 
     @DataProvider(name = "bankManagerDP", parallel = true)
     public static Object[][] getDataSuite1(Method m) {
-        ExcelReader excel = new ExcelReader(Constants.SUITE1_XL_PATH);
+        ExcelReader excel = new ExcelReader("src/test/resources/testData/Suite.xlsx");
         String testCase = m.getName();
         return DataUtil.getData(testCase, excel);
     }

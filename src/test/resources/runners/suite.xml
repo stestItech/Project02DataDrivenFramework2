@@ -3,6 +3,6 @@
 <suite name="MasterSuite">
     <suite-files>
         <suite-file path="bankManager.xml"/>
-        <suite-file path="customer.xml"/>
+<!--        <suite-file path="customer.xml"/>-->
     </suite-files>
 </suite>

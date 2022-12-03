@@ -27,7 +27,8 @@ public class DataUtil {
     }
 
     public static boolean isSuiteRunnable(String suitName) {
-        ExcelReader excel = new ExcelReader(Constants.SUITE_XL_PATH);
+        //ExcelReader excel = new ExcelReader(Constants.SUITE_XL_PATH);
+        ExcelReader excel = new ExcelReader("src/test/resources/testData/Suite.xlsx");
         int rows = excel.getRowCount(Constants.SUITE_SHEET);
 
         for (int rowNum = 2; rowNum <= rows; rowNum++) {

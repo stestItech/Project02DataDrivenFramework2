@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BankManagerSuite" parallel="tests">
+    <test verbose="2" preserve-order="true" name="AddCustomerTest" >
+        <classes>
+            <class name="by.stest.suite.bankManager.testcases.AddCustomerTest">
+                <methods>
+                    <include name="addCustomerTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="OpenAccountTest">
+        <classes>
+            <class name="by.stest.suite.bankManager.testcases.OpenAccountTest">
+                <methods>
+                    <include name="openAccountTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

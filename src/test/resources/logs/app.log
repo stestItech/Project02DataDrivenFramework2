@@ -1,0 +1,56 @@
+[DEBUG] 2022-11-29 22:14:20.522 [TestNG-PoolService-9] [94b52a24ddbd] [chrome ] TestBase - Thread: 94b52a24ddbd Browser: chrome Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:20.918 [TestNG-PoolService-9] [94b52a24ddbd] [chrome ] TestBase - Thread: 94b52a24ddbd Browser: chrome Clicking on an Element: addCustBtn_CSS
+[DEBUG] 2022-11-29 22:14:21.049 [TestNG-PoolService-6] [44d8c98971d4] [edge   ] TestBase - Thread: 44d8c98971d4 Browser: edge Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:21.548 [TestNG-PoolService-9] [94b52a24ddbd] [chrome ] TestBase - Thread: 94b52a24ddbd Browser: chrome Typing in an element firstname_CSS with value Rahul10
+[DEBUG] 2022-11-29 22:14:21.935 [TestNG-PoolService-9] [94b52a24ddbd] [chrome ] TestBase - Thread: 94b52a24ddbd Browser: chrome Typing in an element lastname_XPATH with value Ivanov
+[DEBUG] 2022-11-29 22:14:22.084 [TestNG-PoolService-6] [44d8c98971d4] [edge   ] TestBase - Thread: 44d8c98971d4 Browser: edge Clicking on an Element: addCustBtn_CSS
+[DEBUG] 2022-11-29 22:14:22.368 [TestNG-PoolService-9] [94b52a24ddbd] [chrome ] TestBase - Thread: 94b52a24ddbd Browser: chrome Typing in an element postcode_CSS with value BY212008
+[DEBUG] 2022-11-29 22:14:22.773 [TestNG-PoolService-9] [94b52a24ddbd] [chrome ] TestBase - Thread: 94b52a24ddbd Browser: chrome Clicking on an Element: addbtn_CSS
+[DEBUG] 2022-11-29 22:14:32.165 [TestNG-PoolService-0] [bdc9d2e6881b] [chrome ] TestBase - Thread: bdc9d2e6881b Browser: chrome Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:32.256 [TestNG-PoolService-2] [fdcc2a5aac94] [edge   ] TestBase - Thread: fdcc2a5aac94 Browser: edge Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:32.923 [TestNG-PoolService-0] [bdc9d2e6881b] [chrome ] TestBase - Thread: bdc9d2e6881b Browser: chrome Clicking on an Element: openAccount_CSS
+[DEBUG] 2022-11-29 22:14:33.345 [TestNG-PoolService-2] [fdcc2a5aac94] [edge   ] TestBase - Thread: fdcc2a5aac94 Browser: edge Clicking on an Element: addCustBtn_CSS
+[DEBUG] 2022-11-29 22:14:34.049 [TestNG-PoolService-2] [fdcc2a5aac94] [edge   ] TestBase - Thread: fdcc2a5aac94 Browser: edge Typing in an element firstname_CSS with value Raman3
+[DEBUG] 2022-11-29 22:14:34.427 [TestNG-PoolService-2] [fdcc2a5aac94] [edge   ] TestBase - Thread: fdcc2a5aac94 Browser: edge Typing in an element lastname_XPATH with value Arora
+[DEBUG] 2022-11-29 22:14:34.763 [TestNG-PoolService-2] [fdcc2a5aac94] [edge   ] TestBase - Thread: fdcc2a5aac94 Browser: edge Typing in an element postcode_CSS with value BY212002
+[DEBUG] 2022-11-29 22:14:35.058 [TestNG-PoolService-2] [fdcc2a5aac94] [edge   ] TestBase - Thread: fdcc2a5aac94 Browser: edge Clicking on an Element: addbtn_CSS
+[DEBUG] 2022-11-29 22:14:38.477 [TestNG-PoolService-5] [2faca67e49b0] [firefox] TestBase - Thread: 2faca67e49b0 Browser: firefox Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:38.903 [TestNG-PoolService-8] [c0de29ad3fae] [edge   ] TestBase - Thread: c0de29ad3fae Browser: edge Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:38.912 [TestNG-PoolService-5] [2faca67e49b0] [firefox] TestBase - Thread: 2faca67e49b0 Browser: firefox Clicking on an Element: addCustBtn_CSS
+[DEBUG] 2022-11-29 22:14:39.275 [TestNG-PoolService-5] [2faca67e49b0] [firefox] TestBase - Thread: 2faca67e49b0 Browser: firefox Typing in an element firstname_CSS with value Rahul6
+[DEBUG] 2022-11-29 22:14:39.572 [TestNG-PoolService-5] [2faca67e49b0] [firefox] TestBase - Thread: 2faca67e49b0 Browser: firefox Typing in an element lastname_XPATH with value Ivanov
+[DEBUG] 2022-11-29 22:14:39.663 [TestNG-PoolService-8] [c0de29ad3fae] [edge   ] TestBase - Thread: c0de29ad3fae Browser: edge Clicking on an Element: addCustBtn_CSS
+[DEBUG] 2022-11-29 22:14:39.900 [TestNG-PoolService-5] [2faca67e49b0] [firefox] TestBase - Thread: 2faca67e49b0 Browser: firefox Typing in an element postcode_CSS with value BY212008
+[DEBUG] 2022-11-29 22:14:40.252 [TestNG-PoolService-8] [c0de29ad3fae] [edge   ] TestBase - Thread: c0de29ad3fae Browser: edge Typing in an element firstname_CSS with value Raman9
+[DEBUG] 2022-11-29 22:14:40.388 [TestNG-PoolService-5] [2faca67e49b0] [firefox] TestBase - Thread: 2faca67e49b0 Browser: firefox Clicking on an Element: addbtn_CSS
+[DEBUG] 2022-11-29 22:14:40.684 [TestNG-PoolService-8] [c0de29ad3fae] [edge   ] TestBase - Thread: c0de29ad3fae Browser: edge Typing in an element lastname_XPATH with value Arora
+[DEBUG] 2022-11-29 22:14:41.043 [TestNG-PoolService-8] [c0de29ad3fae] [edge   ] TestBase - Thread: c0de29ad3fae Browser: edge Typing in an element postcode_CSS with value BY212002
+[DEBUG] 2022-11-29 22:14:41.377 [TestNG-PoolService-8] [c0de29ad3fae] [edge   ] TestBase - Thread: c0de29ad3fae Browser: edge Clicking on an Element: addbtn_CSS
+[DEBUG] 2022-11-29 22:14:43.946 [TestNG-PoolService-4] [ae8d795b2b0f] [chrome ] TestBase - Thread: ae8d795b2b0f Browser: chrome Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:44.634 [TestNG-PoolService-4] [ae8d795b2b0f] [chrome ] TestBase - Thread: ae8d795b2b0f Browser: chrome Clicking on an Element: addCustBtn_CSS
+[DEBUG] 2022-11-29 22:14:45.189 [TestNG-PoolService-4] [ae8d795b2b0f] [chrome ] TestBase - Thread: ae8d795b2b0f Browser: chrome Typing in an element firstname_CSS with value Raman5
+[DEBUG] 2022-11-29 22:14:45.598 [TestNG-PoolService-4] [ae8d795b2b0f] [chrome ] TestBase - Thread: ae8d795b2b0f Browser: chrome Typing in an element lastname_XPATH with value Arora
+[DEBUG] 2022-11-29 22:14:45.895 [TestNG-PoolService-2] [a1b1b561f11a] [edge   ] TestBase - Thread: a1b1b561f11a Browser: edge Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:46.117 [TestNG-PoolService-4] [ae8d795b2b0f] [chrome ] TestBase - Thread: ae8d795b2b0f Browser: chrome Typing in an element postcode_CSS with value BY212002
+[DEBUG] 2022-11-29 22:14:46.481 [TestNG-PoolService-4] [ae8d795b2b0f] [chrome ] TestBase - Thread: ae8d795b2b0f Browser: chrome Clicking on an Element: addbtn_CSS
+[DEBUG] 2022-11-29 22:14:46.738 [TestNG-PoolService-2] [a1b1b561f11a] [edge   ] TestBase - Thread: a1b1b561f11a Browser: edge Clicking on an Element: openAccount_CSS
+[DEBUG] 2022-11-29 22:14:50.294 [TestNG-PoolService-0] [75ab4d9d338e] [chrome ] TestBase - Thread: 75ab4d9d338e Browser: chrome Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:50.710 [TestNG-PoolService-0] [75ab4d9d338e] [chrome ] TestBase - Thread: 75ab4d9d338e Browser: chrome Clicking on an Element: addCustBtn_CSS
+[DEBUG] 2022-11-29 22:14:50.956 [TestNG-PoolService-7] [620816337f69] [firefox] TestBase - Thread: 620816337f69 Browser: firefox Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:51.236 [TestNG-PoolService-0] [75ab4d9d338e] [chrome ] TestBase - Thread: 75ab4d9d338e Browser: chrome Typing in an element firstname_CSS with value Raman1
+[DEBUG] 2022-11-29 22:14:51.502 [TestNG-PoolService-7] [620816337f69] [firefox] TestBase - Thread: 620816337f69 Browser: firefox Clicking on an Element: addCustBtn_CSS
+[DEBUG] 2022-11-29 22:14:51.576 [TestNG-PoolService-0] [75ab4d9d338e] [chrome ] TestBase - Thread: 75ab4d9d338e Browser: chrome Typing in an element lastname_XPATH with value Arora
+[DEBUG] 2022-11-29 22:14:51.771 [TestNG-PoolService-7] [620816337f69] [firefox] TestBase - Thread: 620816337f69 Browser: firefox Typing in an element firstname_CSS with value Rahul8
+[DEBUG] 2022-11-29 22:14:51.876 [TestNG-PoolService-0] [75ab4d9d338e] [chrome ] TestBase - Thread: 75ab4d9d338e Browser: chrome Typing in an element postcode_CSS with value BY212002
+[DEBUG] 2022-11-29 22:14:52.004 [TestNG-PoolService-7] [620816337f69] [firefox] TestBase - Thread: 620816337f69 Browser: firefox Typing in an element lastname_XPATH with value Ivanov
+[DEBUG] 2022-11-29 22:14:52.194 [TestNG-PoolService-0] [75ab4d9d338e] [chrome ] TestBase - Thread: 75ab4d9d338e Browser: chrome Clicking on an Element: addbtn_CSS
+[DEBUG] 2022-11-29 22:14:52.251 [TestNG-PoolService-7] [620816337f69] [firefox] TestBase - Thread: 620816337f69 Browser: firefox Typing in an element postcode_CSS with value BY212008
+[DEBUG] 2022-11-29 22:14:52.570 [TestNG-PoolService-7] [620816337f69] [firefox] TestBase - Thread: 620816337f69 Browser: firefox Clicking on an Element: addbtn_CSS
+[DEBUG] 2022-11-29 22:14:58.473 [TestNG-PoolService-3] [3a92b4fe84b9] [firefox] TestBase - Thread: 3a92b4fe84b9 Browser: firefox Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:14:58.824 [TestNG-PoolService-3] [3a92b4fe84b9] [firefox] TestBase - Thread: 3a92b4fe84b9 Browser: firefox Clicking on an Element: addCustBtn_CSS
+[DEBUG] 2022-11-29 22:14:58.985 [TestNG-PoolService-3] [3a92b4fe84b9] [firefox] TestBase - Thread: 3a92b4fe84b9 Browser: firefox Typing in an element firstname_CSS with value Rahul4
+[DEBUG] 2022-11-29 22:14:59.136 [TestNG-PoolService-3] [3a92b4fe84b9] [firefox] TestBase - Thread: 3a92b4fe84b9 Browser: firefox Typing in an element lastname_XPATH with value Ivanov
+[DEBUG] 2022-11-29 22:14:59.319 [TestNG-PoolService-3] [3a92b4fe84b9] [firefox] TestBase - Thread: 3a92b4fe84b9 Browser: firefox Typing in an element postcode_CSS with value BY212008
+[DEBUG] 2022-11-29 22:14:59.586 [TestNG-PoolService-3] [3a92b4fe84b9] [firefox] TestBase - Thread: 3a92b4fe84b9 Browser: firefox Clicking on an Element: addbtn_CSS
+[DEBUG] 2022-11-29 22:15:10.203 [TestNG-PoolService-1] [983901abad2f] [firefox] TestBase - Thread: 983901abad2f Browser: firefox Clicking on an Element: bmlBtn_CSS
+[DEBUG] 2022-11-29 22:15:10.570 [TestNG-PoolService-1] [983901abad2f] [firefox] TestBase - Thread: 983901abad2f Browser: firefox Clicking on an Element: openAccount_CSS

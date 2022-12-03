@@ -18,8 +18,8 @@ public class AddCustomerTest extends TestBase {
         setUp();
         test = extent.createTest("Add Customer Test " + data.get("browser"));
         setExtentTestThread(test);
-        //ExcelReader excel = new ExcelReader(Constants.SUITE1_XL_PATH);
-        ExcelReader excel = new ExcelReader("src/test/resources/testData/BankManagerSuite.xlsx");
+        ExcelReader excel = new ExcelReader(Constants.SUITE1_XL_PATH);
+        //ExcelReader excel = new ExcelReader("src/test/resources/testData/BankManagerSuite.xlsx");
         DataUtil.checkExecution("BankManagerSuite", "AddCustomerTest",
                 data.get("RunMode"), excel);
         openBrowser(data.get("browser"));

@@ -14,7 +14,7 @@ public class Constants {
     public static final String RUNMODE_YES = "Y";
     public static final String RUNMODE_NO = "N";
 
-    public final static String SUITE_XL_PATH = "src\\test\\resources\\testData\\Suite.xlsx";
-    public static final String SUITE1_XL_PATH = "src\\test\\resources\\testData\\BankManagerSuite.xlsx";
-    public static final String SUITE2_XL_PATH = "src\\test\\resources\\testData\\CustomerSuite.xlsx";
+    public final static String SUITE_XL_PATH = ".\\src\\test\\resources\\testData\\Suite.xlsx";
+    public static final String SUITE1_XL_PATH = ".\\src\\test\\resources\\testData\\BankManagerSuite.xlsx";
+    public static final String SUITE2_XL_PATH = ".\\src\\test\\resources\\testData\\CustomerSuite.xlsx";
 }

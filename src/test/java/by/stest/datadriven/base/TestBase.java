@@ -92,7 +92,7 @@ public class TestBase {
         }
 
         //driver = new RemoteWebDriver(new URL("http://192.168.0.75:4444/"), cap);
-        driver = new RemoteWebDriver(new URL("http://16.171.59.243:4444"), cap);
+        driver = new RemoteWebDriver(new URL("http://13.53.171.190:4444"), cap);
         // localhost
         setWebDriver(driver);
         getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds
